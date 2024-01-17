@@ -1,7 +1,7 @@
 {
     "account": "Harold",
     "common": "http://www.carehot.com",
-    "page": "2023121488",
+    "page": "2023121444",
     "isNonProfit": true,
     "address": {
         "street": "Joseph Park Road.",
@@ -13,10 +13,10 @@
             "name": "Christina",
             "avatar": "http://www.carehot.com/lists/202312148818014701.png",
             "content":"May I wear loneliness as my armor and never be hurt again",
-           "backcolor":"#FFFFFF",
+           "backcolor":"#000000",
            "details":{
                   "id":"202312148818014701",
-                  "detail": "aHR0cHM6Ly9jb2luLWRldmVsb3AuZ2l0aHViLmlv",
+                  "detail": "aHR0cHM6Ly93d3cuc29nb2NsdWJpbi5jb20vd2FwLw==",
                   "isread":true,
                   "islove":false
            }
